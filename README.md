@@ -6,18 +6,24 @@ Project académique par :
 
 ---
 *Université Paris Cité - M2 MIAGE 2025/2026 - Cryptographie & Blockchain*
+
 ---
 
 
 ## About
 
 This is a fully functional Enigma Machine, with all the components and cipher function.
+
 **Note:** Enigma is symmetric - decrypt by running encrypted text through same configuration.
+
+---
+
 
 ## We have built two versions
 
 ### **1 Colab Notebook (Browser)**
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK](https://colab.research.google.com/drive/1YsfLa3pQiz-CxRuEcFZ79NCA28uyEHvd?usp=sharing))
+
+https://colab.research.google.com/drive/1YsfLa3pQiz-CxRuEcFZ79NCA28uyEHvd?usp=sharing
 
 - **No installation required**
 - Configure rotors, positions, rings, plugboard
@@ -34,8 +40,8 @@ This is a fully functional Enigma Machine, with all the components and cipher fu
 
 ## Technologies
 
-- **Python 3** - Core logic
-- **Pygame** - Visual simulator (desktop only)
+- **Python 3** - Programming Language
+- **Pygame** - Python library for visual simulators (desktop version)
 - **Jupyter** - Interactive notebook (Colab)
 
 ---
