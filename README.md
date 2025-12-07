@@ -69,4 +69,9 @@ https://colab.research.google.com/drive/1YsfLa3pQiz-CxRuEcFZ79NCA28uyEHvd?usp=sh
 - **Pygame** - Python library for visual simulators (desktop version)
 - **Jupyter** - Interactive notebook (Colab)
 
+## Tests
+### Google Colab version
+<img width="371" height="266" alt="image" src="https://github.com/user-attachments/assets/d998c1bc-8f21-4c4a-949b-d2e4b4df95bb" />
+### Desktop simulator
+
 ---
