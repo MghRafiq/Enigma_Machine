@@ -21,9 +21,9 @@ This is a fully functional Enigma Machine, with all the components and cipher fu
 
 ---
 
-## We have built two versions
+### We have built two versions
 
-### **1 Colab Notebook (Browser)**
+#### **1 Colab Notebook (Browser)**
 
 https://colab.research.google.com/drive/1YsfLa3pQiz-CxRuEcFZ79NCA28uyEHvd?usp=sharing
 
@@ -32,7 +32,7 @@ https://colab.research.google.com/drive/1YsfLa3pQiz-CxRuEcFZ79NCA28uyEHvd?usp=sh
 - Encrypt/decrypt messages instantly
 - Perfect for quick testing the key set up and the cipher function
 
-### **2️ Desktop Simulator (Visual)**
+#### **2️ Desktop Simulator (Visual)**
 - It requires a git clone, and getting inside the project's repository in your terminal
 - Pip install pygame
 - Python main.py
@@ -53,7 +53,7 @@ https://colab.research.google.com/drive/1YsfLa3pQiz-CxRuEcFZ79NCA28uyEHvd?usp=sh
 | `enigma_notebook.ipynb` | Colab version - text-based configuration + encryption |
 | `requirements.txt` | `pygame==2.5.0` (desktop only) |
 
-## Program Features
+### Program Features
 
 - **The 5 Historical Rotors** (I, II, III, IV, V)
 - **3 Reflectors** (A, B, C)
@@ -63,17 +63,17 @@ https://colab.research.google.com/drive/1YsfLa3pQiz-CxRuEcFZ79NCA28uyEHvd?usp=sh
 - **Double-Stepping** (authentic rotor mechanics)
 - **Visual Animation** (rotor positions, signal path)
 
-## Technologies
+### Technologies
 
 - **Python 3** - Programming Language
 - **Pygame** - Python library for visual simulators (desktop version)
 - **Jupyter** - Interactive notebook (Colab)
 
-## Tests
-### Google Colab version
+### Tests
+#### Google Colab version
 <img width="371" height="266" alt="image" src="https://github.com/user-attachments/assets/d998c1bc-8f21-4c4a-949b-d2e4b4df95bb" />
 
-### Desktop simulator
+#### Desktop simulator
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/350fc2d2-69be-4ff9-b639-40670f51ad6f" />
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/7f8b0559-ecf7-4712-8ae6-2c31157b43da" />
 
