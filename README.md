@@ -72,6 +72,10 @@ https://colab.research.google.com/drive/1YsfLa3pQiz-CxRuEcFZ79NCA28uyEHvd?usp=sh
 ## Tests
 ### Google Colab version
 <img width="371" height="266" alt="image" src="https://github.com/user-attachments/assets/d998c1bc-8f21-4c4a-949b-d2e4b4df95bb" />
+
 ### Desktop simulator
+<img width="485" height="199" alt="image" src="https://github.com/user-attachments/assets/350fc2d2-69be-4ff9-b639-40670f51ad6f" />
+<img width="908" height="478" alt="image" src="https://github.com/user-attachments/assets/7f8b0559-ecf7-4712-8ae6-2c31157b43da" />
+
 
 ---
