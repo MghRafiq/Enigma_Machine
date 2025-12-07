@@ -31,14 +31,14 @@ https://colab.research.google.com/drive/1YsfLa3pQiz-CxRuEcFZ79NCA28uyEHvd?usp=sh
 - Perfect for quick testing the key set up and the cipher function
 
 ### **2️ Desktop Simulator (Visual)**
-- it requires a git clone, and getting inside the project's repository in your terminal
-- pip install pygame
-- python main.py
+- It requires a git clone, and getting inside the project's repository in your terminal
+- Pip install pygame
+- Python main.py
 - First : you will need to set up the key in the terminal by following the instructions
 - After the key configuration, you will have a Pop-up screen where you can type your messages and see the function and the encyphered text in real-time
 
 
-### **File Descriptions**
+### **Project Structure**
 
 | File | Purpose |
 |------|---------|
@@ -50,6 +50,16 @@ https://colab.research.google.com/drive/1YsfLa3pQiz-CxRuEcFZ79NCA28uyEHvd?usp=sh
 | `enigma.py` | Core machine - signal routing, rotor stepping, encipher |
 | `enigma_notebook.ipynb` | Colab version - text-based configuration + encryption |
 | `requirements.txt` | `pygame==2.5.0` (desktop only) |
+
+## Program Features
+
+- **The 5 Historical Rotors** (I, II, III, IV, V)
+- **3 Reflectors** (A, B, C)
+- **Plugboard** (up to 10 letter pair substitutions)
+- **Ring Settings** (rotor offset 0-25)
+- **Initial Positions** (A-Z per rotor)
+- **Double-Stepping** (authentic rotor mechanics)
+- **Visual Animation** (rotor positions, signal path)
 
 ## Technologies
 
