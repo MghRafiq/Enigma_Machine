@@ -7,11 +7,11 @@ import pygame
 
 # Getting the first user input for the key config
 print("### ENIGMA KEY SETUP ###")
-rotors_str   = input("Rotors (default: I II III): ") or "I II III"
-positions    = input("Positions (default: AAA): ").upper() or "AAA"
-rings_str    = input("Rings (default: 0 0 0): ") or "0 0 0"
-plugboard_str= input("Plugboard pairs (e.g. AR GK OX, default: none): ").upper() or ""
-reflector_str= input("Reflector (A/B/C, default: A): ").upper() or "A"
+rotors_str   = input("Rotors (default: I II III)\nLeave space between the rotors names : ") or "I II III"
+positions    = input("Positions (default: AAA)\nDon't leave space between the letters : ").upper() or "AAA"
+rings_str    = input("Rings (default: 000)\nDon't leave space between the numbers : ") or "0 0 0"
+plugboard_str= input("Plugboard pairs (e.g. AR GK OX, default: none)\nLeave space between the couples : ").upper() or ""
+reflector_str= input("Reflector (A/B/C, default: A) : ").upper() or "A"
 
 rotor_names = rotors_str.split()
 r1_name = rotor_names[0] if len(rotor_names) > 0 else "I"
