@@ -1,8 +1,5 @@
 # **Enigma Machine**
 
-<img width="753" height="611" alt="Diagramme sans nom drawio (1)" src="https://github.com/user-attachments/assets/c8b3b1fd-cfb2-40bb-ad30-a51ee5f129f4" />
-
-
 Project académique par :
 *   Rafiq MAHROUG
 *   Magnolia Amoussou Guenou
@@ -20,7 +17,9 @@ This is a fully functional Enigma Machine, with all the components and cipher fu
 **Note:** Enigma is symmetric - decrypt by running encrypted text through same configuration.
 
 ---
+<img width="753" height="611" alt="Diagramme sans nom drawio (1)" src="https://github.com/user-attachments/assets/c8b3b1fd-cfb2-40bb-ad30-a51ee5f129f4" />
 
+---
 
 ## We have built two versions
 
