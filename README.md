@@ -38,6 +38,19 @@ https://colab.research.google.com/drive/1YsfLa3pQiz-CxRuEcFZ79NCA28uyEHvd?usp=sh
 - After the key configuration, you will have a Pop-up screen where you can type your messages and see the function and the encyphered text in real-time
 
 
+### **File Descriptions**
+
+| File | Purpose |
+|------|---------|
+| `main.py` | Pygame GUI - configure key, watch rotors, encrypt messages |
+| `keyboard.py` | Converts letters (A-Z) to positions (0-25) and back |
+| `plugboard.py` | Implements plugboard swaps (AE, BM, etc.) |
+| `rotor.py` | Rotor wiring, position tracking, mechanical rotation |
+| `reflector.py` | Reflects signal back through rotors (3 historical models) |
+| `enigma.py` | Core machine - signal routing, rotor stepping, encipher |
+| `enigma_notebook.ipynb` | Colab version - text-based configuration + encryption |
+| `requirements.txt` | `pygame==2.5.0` (desktop only) |
+
 ## Technologies
 
 - **Python 3** - Programming Language
